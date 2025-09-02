@@ -10,8 +10,6 @@ The code allows you to:
 ## Structure
 - `notebooks/simulation_demo.ipynb`  
   Contains the simulation function and the metaorder mapping function, with an example run.
-- `src/`  
-  (Optional) Python modules if you want to import functions outside notebooks.
 - `requirements.txt`  
   List of Python dependencies (NumPy, pandas, matplotlib, etc.).
 
