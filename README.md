@@ -16,6 +16,6 @@ The code allows you to:
 ## Usage
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/glatouille/AUnifyingMicrostructureFramework.git
+git clone https://github.com/glatouille/ArtificialMarketSimulator.git
 cd SQL2-Simulation
 pip install -r requirements.txt
