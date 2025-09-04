@@ -17,5 +17,5 @@ The code allows you to:
 Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/glatouille/ArtificialMarketSimulator.git
-cd SQL2-Simulation
+cd ArtificialMarketSimulator
 pip install -r requirements.txt
