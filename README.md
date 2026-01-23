@@ -1,4 +1,4 @@
-# Artificial Market Simulator
+# Artificial Market Simulator (New version of the code to be released soon)
 
 This repository provides a minimal implementation of the artificial market generator described in  
 **"The Subtle Interplay between Square-root Impact, Order Imbalance & Volatility II: An Artificial Market Generator" (2025).**
